@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Taller2
 {
-    public class Class1
+    public class Doctor
     {
+        public int Id { get; set; }
+        public string Name { get; set; }
     }
 }
